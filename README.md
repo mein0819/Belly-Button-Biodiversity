@@ -12,3 +12,7 @@ This project creates an interactive dashboard that explores the bacteria found i
 ## Dropdown Menu with MetaData Panel
 
 ![metaImage](https://github.com/mein0819/Belly-Button-Biodiversity/blob/main/readMeImages/metaImage.png)
+
+## Charts Displayed 
+
+![charts](https://github.com/mein0819/Belly-Button-Biodiversity/blob/main/readMeImages/charts.png)
