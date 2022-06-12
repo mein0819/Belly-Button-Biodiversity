@@ -16,3 +16,7 @@ This project creates an interactive dashboard that explores the bacteria found i
 ## Charts Displayed 
 
 ![charts](https://github.com/mein0819/Belly-Button-Biodiversity/blob/main/readMeImages/charts.png)
+
+## Mobile Chart Responsiveness
+
+![mobile](https://github.com/mein0819/Belly-Button-Biodiversity/blob/main/readMeImages/mobile.png)
